@@ -1,0 +1,23 @@
+{
+  "name": "react-swiggy",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klutest200/react-swiggy.git"
+  },
+  "keywords": [
+    "react",
+    "cat"
+  ],
+  "author": "cat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klutest200/react-swiggy/issues"
+  },
+  "homepage": "https://github.com/klutest200/react-swiggy#readme",
+  "description": ""
+}
