@@ -1,8 +1,15 @@
-import React from "react"
-import ReactDOM from "react-dom/client"
+import React from "react";
+import ReactDOM from "react-dom/client";
+import Navbar from "./components/Navbar";
+import CardContainer from "./components/CardContainer";
 
-const heading = <h1>Welcome to React</h1>
-
-const root = ReactDOM.createRoot(document.getElementById('root'))
-
-root.render(heading)
+const Main = ()=>{
+    return (
+        <>
+        <Navbar/>
+        <CardContainer/>
+        </>
+    )
+}
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<Main/>)

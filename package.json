@@ -1,26 +1,18 @@
 {
-  "name": "react-swiggy",
+  "name": "cat",
   "version": "1.0.0",
+  "description": "sample project",
   "main": "App.js",
   "scripts": {
-    "test": "jest",
-    "start": "parcel index.html"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/klutest200/react-swiggy.git"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"parcel index.html"
   },
   "keywords": [
-    "react",
-    "cat"
+    "cat",
+    "react"
   ],
   "author": "cat",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/klutest200/react-swiggy/issues"
-  },
-  "homepage": "https://github.com/klutest200/react-swiggy#readme",
-  "description": "",
   "devDependencies": {
     "parcel": "^2.12.0",
     "process": "^0.11.10"
